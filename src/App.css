@@ -1,0 +1,14 @@
+.App{
+  background-color: lavender;
+  width: 550px;
+  margin: auto;
+  border-radius: 4px;
+}
+h1{
+  text-align: center;
+  padding-top: 20px;
+}
+p{
+  text-align: center;
+  font-size: 18px;
+}
